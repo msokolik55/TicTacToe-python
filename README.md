@@ -39,5 +39,9 @@ This script contains the main logic for the Piskvorky game, including handling p
 
 The Tkinter library is used to create the graphical user interface for the game. Buttons represent cells in the grid, and the game responds to player clicks.
 
+## Screenshots
+
+![TicTacToe board](screenshot.png)
+
 License
 This Piskvorky game is released under the MIT license. See the [LICENSE](LICENSE) file for details.
